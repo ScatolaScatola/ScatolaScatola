@@ -1,4 +1,4 @@
-![Eddie's Basketball Court](https://your-image-url.com/image.jpg)
+![Eddie's Basketball Court]([https://your-image-url.com/image.jpg](https://github.com/ScatolaScatola/img/blob/main/the-first-slam-dunk-1776736.jpg))
 
 # Welcome to My Court! 🏀
 
